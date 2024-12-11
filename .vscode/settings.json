@@ -1,0 +1,13 @@
+{
+  "i18n-ally.localesPaths": [
+    "resources/lang",
+    "Modules/Uhelpupdate/Resources/lang",
+    "www/resources/lang",
+    "public/assets/plugins/moment/locale",
+    "resources/assets/plugins/moment/locale",
+    "public/assets/plugins/summernote/subb/lang",
+    "resources/assets/plugins/summernote/subb/lang",
+    "www/resources/assets/plugins/moment/locale",
+    "www/resources/assets/plugins/summernote/subb/lang"
+  ]
+}

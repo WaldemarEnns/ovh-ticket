@@ -1,0 +1,56 @@
+
+[	php:S1131ñ
+"@Remove the useless trailing whitespaces at the end of this line.(æÀö€øÿÿÿÿ
+V	php:S1142+"<This method has 6 returns, which is more than the 3 allowed.(­ùê“ûÿÿÿÿ
+S	php:S1142å"=This method has 15 returns, which is more than the 3 allowed.(şöã¤
+n	php:S3776+"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(­ùê“ûÿÿÿÿ
+j	php:S3776y"URefactor this function to reduce its Cognitive Complexity from 105 to the 15 allowed.(ã÷ÕÖ
+j	php:S3776å"TRefactor this function to reduce its Cognitive Complexity from 81 to the 15 allowed.(şöã¤
+j	php:S3776ë"URefactor this function to reduce its Cognitive Complexity from 182 to the 15 allowed.(“ß¾]
+o	php:S3776Œ"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(í§Â®üÿÿÿÿ
+o	php:S3776–"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(¢êå½ıÿÿÿÿ
+±	php:S1192»"•Define a constant instead of duplicating this literal "</span>
+                        <span class="text-danger font-weight-semibold mx-1">" 4 times.(”²×ìüÿÿÿÿ
+s	php:S1192¯"]Define a constant instead of duplicating this literal "</span>
+                    " 4 times.(Üàøè
+¤	php:S1192­"ˆDefine a constant instead of duplicating this literal "
+                    <span class="text-teal font-weight-semibold mx-1">" 8 times.(±·Úöûÿÿÿÿ
+p	php:S1192¬"ZDefine a constant instead of duplicating this literal "Cannot Access This Ticket" 5 times.(ºŒšò
+ª	php:S1192º"Define a constant instead of duplicating this literal "
+                        <span class="text-danger font-weight-semibold mx-1">" 8 times.(±·Úöûÿÿÿÿ
+¨	php:S1192Ş"ŒDefine a constant instead of duplicating this literal "
+                <span class="text-burnt-orange font-weight-semibold mx-1">" 4 times.(±·Úöûÿÿÿÿ
+o	php:S1192à"YDefine a constant instead of duplicating this literal "</span>
+                " 4 times.(Üàøè
+Ñ	php:S1192È"ºDefine a constant instead of duplicating this literal "</span>
+                        <span class="text-warning font-weight-semibold mx-1">Note</span>
+                        " 4 times.(Üàøè
+Á	php:S1192ì"ªDefine a constant instead of duplicating this literal "</span>
+                <span class="text-warning font-weight-semibold mx-1">Note</span>
+                " 4 times.(Üàøè
+`	php:S1192Ã	"JDefine a constant instead of duplicating this literal "customer/" 6 times.(ĞšÄï
+t	php:S1192å	"YDefine a constant instead of duplicating this literal "Thank you for rating us." 6 times.(Ôí¬Ûÿÿÿÿÿ
+ 	php:S1192€"„Define a constant instead of duplicating this literal "
+                <span class="text-teal font-weight-semibold mx-1">" 4 times.(±·Úöûÿÿÿÿ
+É	php:S1192»"²Define a constant instead of duplicating this literal "</span>
+                    <span class="text-warning font-weight-semibold mx-1">Note</span>
+                    " 4 times.(Üàøè
+z	php:S1192Ô"eDefine a constant instead of duplicating this literal "The ticket was successfully deleted." 4 times.(€­ÃO
+­	php:S1192®"‘Define a constant instead of duplicating this literal "</span>
+                    <span class="text-danger font-weight-semibold mx-1">" 4 times.(Şóçùÿÿÿÿ
+©	php:S1192ß"Define a constant instead of duplicating this literal "</span>
+                <span class="text-danger font-weight-semibold mx-1">" 4 times.(–¾ˆ×øÿÿÿÿ
+w	php:S1192¼"aDefine a constant instead of duplicating this literal "</span>
+                        " 4 times.(Üàøè
+H	php:S1481N".Remove this unused "$projects" local variable.(í¦Ëÿùÿÿÿÿ
+†	php:S1448""lClass "TicketController" has 22 methods, which is greater than 20 authorized. Split it into smaller classes.(î‚ÌÍıÿÿÿÿ
+J	php:S1066¼"/Merge this if statement with the enclosing one.(Ú‹‹ùÿÿÿÿ
+Gphp:S836È"2Review the data-flow - use of uninitialized value.(êÜ¿ˆ
+W	php:S1793"<Replace this "else if" keyword sequence by "elseif" keyword.(ı›Ôíúÿÿÿÿ
+R	php:S1793™"<Replace this "else if" keyword sequence by "elseif" keyword.(ÛÜé©
+W	php:S1793¿"<Replace this "else if" keyword sequence by "elseif" keyword.(ı›Ôíúÿÿÿÿ
+4php:S125°"Remove this commented out code.(òŠ±º
+4php:S125½"Remove this commented out code.(Ñ†û¥
+9php:S125Ô	"Remove this commented out code.(ñëï¯ıÿÿÿÿ
+‰php:S138y"uThis function "store" has 223 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(ã÷ÕÖ
+‰php:S138ë"uThis function "close" has 184 lines, which is greater than the 150 lines authorized. Split it into smaller functions.(“ß¾]
